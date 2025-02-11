@@ -1,0 +1,33 @@
+
+.my-element {
+    display: grid;
+    margin-top: 150px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+
+   
+  }
+  .box{
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Aligns multi-line text */
+    border-radius: 10px;
+    font-family: 'Geist', sans-serif;
+  }
+
+#banner {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers text inside */
+    height: 80px; /* Adjust as needed */
+    background-color: lightblue;
+    position: fixed; /* Keeps it at the top */
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
