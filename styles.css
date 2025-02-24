@@ -31,3 +31,16 @@
     left: 0;
     z-index: 1000;
 }
+#currentContentBox {
+    width: 550px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: lightblue;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  
+}

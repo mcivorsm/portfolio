@@ -1,0 +1,22 @@
+
+
+
+
+
+body {
+    display: grid;
+    place-items: start center; /* Centers horizontally, aligns at the top */
+   
+    margin: 0;
+  }
+
+#banner {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Aligns items vertically */
+    height: 100px; /* Adjust height as needed */
+    background-color: lightblue;
+    position: absolute;
+    width: 100%;
+    top: 0;
+ }

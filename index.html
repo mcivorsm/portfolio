@@ -3,20 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://geist-fonts.vercel.app/css">
     <link rel="stylesheet" href="styles.css">
+  
    <title></title>
 </head>
 <body>
 <div id="banner"><h1>Welcome to my Portfolio!</h1></div>
 
     
-    <div class="my-element">
-        <div class="box">Backend</div>
-        <div class="box">Front End</div>
-        <div class="box">Tools and Enviornments</div>
-        <div class="box">Databases and Web Services</div>
+    <div class="my-element" role="button" tabindex="0">
+        <div id="backendBox" class="box">Backend</div>
+        <div id="frontendBox" class="box">Front End</div>
+        <div id="toolsBox" class="box">Tools and Enviornments</div>
+        <div id="databaseBox" class="box">Databases and Web Services</div>
       </div>
-
-    
+    <div id="currentContentBox">Skills</div>
+    <script src="skills.js"></script>
 </body>
 </html>
