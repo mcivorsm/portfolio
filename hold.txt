@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+   <title></title>
+</head>
+<body>
+       <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+<div id="banner"><h1>Welcome to my Portfolio!</h1></div>
+
+    
+    <div class="my-element">
+        <div class="box">Backend</div>
+        <div class="box">Front End</div>
+        <div class="box">Tools and Enviornments</div>
+        <div class="box">Databases and Web Services</div>
+      </div>
+
+    
+</body>
+</html>
