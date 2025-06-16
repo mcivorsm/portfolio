@@ -20,16 +20,16 @@ function Projects() {
       />
 
       <Project
-        nameOfProject="DevTrack"
-        techUsed="Node.js, Express, MongoDB"
-        linkToGithub="https://github.com/example/devtrack"
-        description="A developer-focused task management system with tagging, status tracking, and notifications."
+        nameOfProject="Mobile App(In progress)"
+        techUsed="React Native, Spring Boot, MongoDB"
+        linkToGithub="NA"
+        description="A mobile application currently in development."
       />
 
       <Project
         nameOfProject="Portfolio Site"
         techUsed="React, Bootstrap, EmailJS"
-        linkToGithub="https://github.com/example/portfolio"
+        linkToGithub="https://github.com/mcivorsm/portfolio"
         description="My personal portfolio site showcasing my projects, skills, and contact information."
       />
     </div>
