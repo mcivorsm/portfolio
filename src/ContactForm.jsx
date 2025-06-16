@@ -9,7 +9,7 @@ function ContactForm() {
 
     emailjs.sendForm(
       'service_b4i7oaa',     
-      'template_e3tz7xh ',    
+      'template_e3tz7xh',    
       form.current,
       'fuhp-8rEYbV_033Hy'         
     )
@@ -21,7 +21,7 @@ function ContactForm() {
       console.error(error.text);
     });
   };
-
+//more nabby
   return (
     <div style={containerStyles}>
       <h2 style={headerStyles}>Contact Me</h2>
