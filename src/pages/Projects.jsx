@@ -28,7 +28,7 @@ function Projects() {
 
       <Project
         nameOfProject="Portfolio Site"
-        techUsed="React, Bootstrap, EmailJS"
+        techUsed="React, Bootstrap, EmailJS, Vercel"
         linkToGithub="https://github.com/mcivorsm/portfolio"
         description="My personal portfolio site showcasing my projects, skills, and contact information."
       />

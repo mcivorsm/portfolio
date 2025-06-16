@@ -53,11 +53,11 @@ function Home() {
           ></span>
         </h2>
         <p>
-          I’m a passionate developer skilled in full-stack web technologies,
-          always eager to learn and build scalable applications. This site showcases
+          I’m a passionate developer currently based in the Washington D.C. area and skilled in full-stack web technologies.
+         I am always eager to learn new technigques and about building scalable applications. This site showcases
           my expertise and tools I use. I specialize in java backend development and have spent much of the last 6 months learning Spring/Spring Boot. 
-            Outside of programming I spend alot of my time watching or playing soccer with friends, and I enjoy going out to new restaurants and trying different foods. 
-            If you would like to connect I am currently open to new opportunities.
+            Outside of programming I spend alot of my time watching or playing soccer with friends. I also enjoy going out to new restaurants and trying different foods. 
+            If you would like to connect I am currently open to new opportunities. Thanks for visiting!
         </p>
       </section>
 
